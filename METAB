@@ -1,0 +1,45 @@
+_G.Bin = true
+while _G.Bin do
+    wait(0.5)
+
+
+game:GetService("ReplicatedStorage").RemoteEvents.U11pdateA11vatar:FireServer("wear",6997241390)
+
+
+game:GetService("ReplicatedStorage").RemoteEvents.U11pdateA11vatar:FireServer("wear",4875935116)
+
+
+
+game:GetService("ReplicatedStorage").RemoteEvents.U11pdateA11vatar:FireServer("wear",163491866)
+
+
+
+game:GetService("ReplicatedStorage").RemoteEvents.U11pdateA11vatar:FireServer("wear",1744255910)
+
+
+game:GetService("ReplicatedStorage").RemoteEvents.U11pdateA11vatar:FireServer("wear",1230404580)
+
+
+game:GetService("ReplicatedStorage").RemoteEvents.U11pdateA11vatar:FireServer("wear",7365790087)
+
+
+game:GetService("ReplicatedStorage").RemoteEvents.U11pdateA11vatar:FireServer("wear",4876357616)
+
+
+game:GetService("ReplicatedStorage").RemoteEvents.U11pdateA11vatar:FireServer("wear",5829844318)
+
+
+game:GetService("ReplicatedStorage").RemoteEvents.U11pdateA11vatar:FireServer("wear",2163546691)
+
+
+game:GetService("ReplicatedStorage").RemoteEvents.U11pdateA11vatar:FireServer("wear",4367427794)
+
+
+game:GetService("ReplicatedStorage").RemoteEvents.U11pdateA11vatar:FireServer("wear",215719598)
+
+
+game:GetService("ReplicatedStorage").RemoteEvents.U11pdateA11vatar:FireServer("wear",409739014)
+
+
+game:GetService("ReplicatedStorage").RemoteEvents.U11pdateA11vatar:FireServer("wear",4904336432)
+end
